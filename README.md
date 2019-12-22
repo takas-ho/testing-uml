@@ -35,3 +35,21 @@ app -> client
 db -> app
 app -> client
 ```
+
+# 5
+
+```puml
+actor client
+node app
+database db
+
+db -> app
+app -> client
+```
+
+# 6
+
+```puml
+db -> app
+app -> client
+```
