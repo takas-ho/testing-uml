@@ -1,3 +1,5 @@
+![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/takas-ho/testing-uml/master/README.md)
+
 # 1
 
 @startuml component
